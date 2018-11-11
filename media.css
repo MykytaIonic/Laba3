@@ -1,0 +1,35 @@
+#media {
+	border-color:black;
+	border-style: solid;
+	background-color: slategray;
+}
+
+.submit {
+	font-family: fantasy;
+    font-size: 15px;
+    margin: 10px;
+    font-weight: bold;
+    background-color: yellow;
+    border-style: solid;
+    border-color: black;
+}
+
+#file {
+	font-family: fantasy;
+    font-size: 15px;
+    margin: 10px;
+    font-weight: bold;
+    background-color: yellow;
+    border-style: solid;
+    border-color: black;
+}
+
+.watch {
+    border-color:black;
+    border-style: solid;
+    background-color: slategray;
+}
+
+a:hover {
+    background-color:yellow;
+}
